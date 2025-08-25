@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2025-08-25T15:37:26.785715",
+  "last_updated": "2025-08-25T15:40:21.963740",
   "images": {
     "tv-233969": {
       "poster": {
@@ -128,6 +128,12 @@
         "sha": "66b191f04561aa303ce7451f6cc0ed091d80d591",
         "size": 1388867,
         "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-1155281/poster.jpg"
+      },
+      "logo": {
+        "repo_url": "https://github.com/Liu1443452494/emby_media_image2",
+        "sha": "8247e328e20554af363e6b0a876e532558d1a584",
+        "size": 620458,
+        "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-1155281/clearlogo.png"
       }
     },
     "tv-226186": {
@@ -336,6 +342,14 @@
         "sha": "902cc7321d23b3d247dde4946f71df5a1d1ec11d",
         "size": 340177,
         "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-68721/clearlogo.png"
+      }
+    },
+    "movie-1071585": {
+      "logo": {
+        "repo_url": "https://github.com/Liu1443452494/emby_media_image2",
+        "sha": "646e87b4a37b9e7074afa089f456cb9a609e7c1c",
+        "size": 43614,
+        "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-1071585/clearlogo.png"
       }
     }
   }
