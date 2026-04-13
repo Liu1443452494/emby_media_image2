@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-13T15:19:41.433085",
+  "last_updated": "2026-04-13T16:05:04.359328",
   "images": {
     "tv-233969": {
       "poster": {
@@ -2408,12 +2408,6 @@
         "sha": "77f61d2ec0970271c8c9989007c0dfef40b31bdc",
         "size": 1603444,
         "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-425274/poster.jpg"
-      },
-      "fanart": {
-        "repo_url": "https://github.com/Liu1443452494/emby_media_image2",
-        "sha": "b00b4b97670ec96f728ea2e44ddf75701ee60bc2",
-        "size": 1474283,
-        "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-425274/fanart.jpg"
       }
     },
     "tv-258865": {
