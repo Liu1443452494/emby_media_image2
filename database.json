@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-04T11:32:42.998339",
+  "last_updated": "2026-05-16T20:06:18.559716",
   "images": {
     "tv-233969": {
       "poster": {
@@ -2600,6 +2600,14 @@
         "sha": "53619b7f5c72671ad05c4d9bad56dbdb902e66f6",
         "size": 539134,
         "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/tv-273129/poster.jpg"
+      }
+    },
+    "movie-936245": {
+      "poster": {
+        "repo_url": "https://github.com/Liu1443452494/emby_media_image2",
+        "sha": "2e64f49a77d132480c6380fc723e068ff1c8facc",
+        "size": 681541,
+        "url": "https://raw.githubusercontent.com/Liu1443452494/emby_media_image2/main/images/movie-936245/poster.jpg"
       }
     }
   }
